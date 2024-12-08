@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Saleh</h1>
 <h3 align="center">A passionate software developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Pour to door**
+- 🔭 I’m currently working on **ESIM @ Orange.eg**
 
-- 🌱 I’m currently learning **Python, Anguler**
+- 🌱 I’m currently learning **Java, Anguler**
 
 - 💬 Ask me about **PHP, Laravel**
 
